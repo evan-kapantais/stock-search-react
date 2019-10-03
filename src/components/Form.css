@@ -1,0 +1,27 @@
+.stock-form {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+  background: rgb(238, 238, 238);
+  border-top: 1px solid #282c3434;
+}
+
+.stock-form * {
+  margin: 0 6px;
+}
+
+.stock-form input {
+  padding: 9px 6px;
+  font-size: 1em;
+  border-radius: 6px;
+  border: 1px solid rgb(190, 190, 190);
+}
+
+button {
+  min-width: 100px;
+  background: rgb(92, 116, 255);
+  border: none;
+  border-radius: 6px;
+  color: #fff;
+  text-transform: uppercase;
+}
